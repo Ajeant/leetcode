@@ -36,9 +36,17 @@
 35. [有重复数字的全排序](https://github.com/Ajeant/leetcode/blob/master/leetcode/Permute2.java)
 36. [八皇后问题](https://github.com/Ajeant/leetcode/blob/master/leetcode/SolveNQueens.java)
 37. [将矩阵以顺时针旋转读取](https://github.com/Ajeant/leetcode/blob/master/leetcode/SpiralOrder.java)
-
+38. [判断数字是否符合规则](https://github.com/Ajeant/leetcode/blob/master/leetcode/IsNumber.java)
+39. [矩阵寻找最短路径](https://github.com/Ajeant/leetcode/blob/master/leetcode/MinPathSum.java)
+40. [旋转二维数组](https://github.com/Ajeant/leetcode/blob/master/leetcode/Rotate.java)
+41. [旋转链表](https://github.com/Ajeant/leetcode/blob/master/leetcode/RotateRight.java)
+42. [唯一路径](https://github.com/Ajeant/leetcode/blob/master/leetcode/UniquePaths.java)
+43. [二进制数相加](https://github.com/Ajeant/leetcode/blob/master/leetcode/addBinary.java)
 
 ### 其他算法
 1. [二维数组中查找整数是否存在](https://github.com/Ajeant/leetcode/blob/master/其他算法/findIn2array.py)
 2. [计算x的幂次方](https://github.com/Ajeant/leetcode/blob/master/其他算法/power.py)
 3. [字符串匹配算法：BF和KMP](https://github.com/Ajeant/leetcode/blob/master/其他算法/BF_KMP.py)
+4. [计算逆波兰式](https://github.com/Ajeant/leetcode/blob/master/其他算法/RPN.java)
+5. [最浅深度](https://github.com/Ajeant/leetcode/blob/master/其他算法/minDepth.java)
+6. [购物](https://github.com/Ajeant/leetcode/blob/master/其他算法/shopping.java)
